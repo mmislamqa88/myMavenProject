@@ -1,0 +1,15 @@
+<project>
+
+<modelVersion>4.0.0</modelVersion>
+
+<groupId>com.org.maven</groupId>
+
+<artifactId>mdmavenproject</artifactId>
+
+<version>1.0</version>
+
+<packaging>jar</packaging>
+
+
+
+</project>
